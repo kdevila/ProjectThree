@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: #F2E3D5;
+}
+
+nav{
+background-color: #1F438C;
+padding: 25px;
+}
+
+header{
+    font-family: "Phudu", sans-serif;
+    font-weight:400;
+    font-size: 15pt;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+nav a{
+    display: flex-box;
+    color:beige;
+}
