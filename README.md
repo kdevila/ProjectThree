@@ -18,7 +18,7 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
 </ul>
 
 # acknowledgment 
-###### sites referenced for animation inspiration: ######
+###### sites referenced for visual inspiration: ######
 #### student example sites ####
 <ul>
     <li>https://jwoakley.github.io/projectThreeExamples/madi/index.html</li>
