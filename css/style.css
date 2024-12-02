@@ -36,6 +36,9 @@ nav a{
     text-transform: uppercase;
     text-align: right;
 }
+nav a:hover{
+    color: #FFDF45;
+}
 
 .logo img {
     max-width: 80px;
