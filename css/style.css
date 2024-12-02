@@ -33,6 +33,13 @@ nav a{
     text-align: right;
 }
 
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    gap: 10%;
+}
+
 h1{
     font-family: "Slabo 13px", serif;
     font-weight: 400;
@@ -45,6 +52,7 @@ p{
   font-size: 13pt;
   font-style: normal;
 }
+
 .hero{
     width: 70%;
     min-width: 800px;
