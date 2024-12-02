@@ -10,19 +10,25 @@ body{
 }
 
 nav{
-background-color: #1F438C;
+align-items: center;
+align-content: center;
+align-self: center;
 padding: 25px;
 }
 
 header{
-    font-family: "Phudu", sans-serif;
-    font-weight:400;
-    font-size: 15pt;
-    text-transform: uppercase;
-    text-align: right;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color:#1F438C;
 }
 
 nav a{
-    display: flex-box;
     color:beige;
+    font-family: "Phudu", sans-serif;
+    font-weight:500;
+    font-size: 20pt;
+    text-transform: uppercase;
+    text-align: right;
 }
