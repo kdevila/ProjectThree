@@ -32,3 +32,9 @@ nav a{
     text-transform: uppercase;
     text-align: right;
 }
+
+.hero{
+    flex-grow: 1;
+    width: 100%;
+    min-width: 800px;
+}
