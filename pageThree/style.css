@@ -4,3 +4,60 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+body{
+    background-color: #F2E3D5;
+}
+
+nav{
+align-items: center;
+padding: 25px;
+padding-right: 10%;
+position: sticky;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+height: 8%;
+background-color:#1F438C;
+}
+
+.pages{
+    display: flex;
+    gap: 3rem;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav a{
+    color:beige;
+    font-family: "Phudu", sans-serif;
+    font-weight:500;
+    font-size: 20pt;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.logo img {
+    max-width: 80px;
+    height: auto;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    gap: 10%;
+}
+
+h1{
+    font-family: "Slabo 13px", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+  font-family: "SUSE", sans-serif;
+  font-weight: 200;
+  font-size: 13pt;
+  font-style: normal;
+}
