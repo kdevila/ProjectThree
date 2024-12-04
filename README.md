@@ -7,6 +7,8 @@
 The Empow(H)er festival is an event to support girls' secondary education, specifically in places where gender discrimination and scarce resources prevent millions of young girls from gaining secondary education. Did you know that a reported 120 million girls worldwide are out of school? By partnering with the Malala Fund, we aim to make change and bring awareness to this issue through supporting local efforts in third-world and developing countries, advocating for policy change, and providing funds to learning advocates/activists. In combining our efforts, we can help empower generations of female leaders to come.
 
 ### wireframe link ###
+<a href="https://www.w3schools.com/">URL you want image to go when clicked-test</li>
+<img src="https://www.w3schools.com/"/>image source URL-test
 <ul>
 <li>https://sfsu.app.box.com/s/gh5ky9r9os5ut7cbwz8knel8zwzu3iw1</li>
 </ul>
@@ -37,10 +39,21 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>https://www.borgenmagazine.com/top-10-facts-about-girls-education-in-pakistan/</li>
 </ul>
 
+###### softwares used: ######
+<ul>
+    <li>Adobe Photoshop</li>
+    <li>Adobe Illustrator</li>
+</ul>
 # acknowledgment 
 ###### sites referenced for visual inspiration: ######
-#### student example sites ####
+#### past student example sites ####
 <ul>
     <li>https://jwoakley.github.io/projectThreeExamples/madi/index.html</li>
     <li>https://jwoakley.github.io/projectThreeExamples/kim/index.html</li>
+</ul>
+
+### classmate example sites ###
+<ul>
+    <li>https://kacencio.github.io/projectThreeFestival/index.html</li>
+    <li>https://cayleighip.github.io/projectThreeFestival/index.html</li>
 </ul>

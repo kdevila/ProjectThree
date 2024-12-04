@@ -46,6 +46,17 @@ h1{
     font-family: "Slabo 13px", serif;
     font-weight: 400;
     font-style: normal;
+    margin-top: 30px;
+}
+h2{
+    font-family: "Slabo 13px", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: #9CF0FF;
 }
 
 p{
@@ -71,11 +82,10 @@ p{
 
 /*footer*/
 footer {
-    background-color: #1F438C;
+    background-color:white;
     font-family:"Slabo 13px", serif;
     font-weight: 400;
-    font-size:24px;
-    color: white;
+    font-size:18px;
 /**/
     text-align: center;
     padding: 40px;
