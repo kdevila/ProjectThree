@@ -76,4 +76,16 @@ p{
 }
 
 
-
+/*footer*/
+footer {
+    background-color: #1F438C;
+    font-family:"Slabo 13px", serif;
+    font-weight: 400;
+    font-size:24px;
+    color: white;
+/**/
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+    width: 100%;
+}

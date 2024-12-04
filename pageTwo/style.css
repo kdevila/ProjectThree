@@ -42,26 +42,19 @@ nav a{
     height: auto;
 }
 
-
 h1{
     font-family: "Slabo 13px", serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 4em;
 }
 
 p{
   font-family: "SUSE", sans-serif;
   font-weight: 400;
   font-size: 13pt;
-  display: block;
 }
 
 /*event info*/
-section {
-    display: block;
-    unicode-bidi: isolate;
-}
 
 #events{
     display: grid;
@@ -76,6 +69,22 @@ section {
     align-items: center;
 }
 
-h2{
-display: block;
+/*footer*/
+footer {
+    background-color: #1F438C;
+    font-family:"Slabo 13px", serif;
+    font-weight: 400;
+    font-size:24px;
+    color: white;
+/**/
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+/*imgs*/
+.eventimg{
+    width: 70%;
+    min-width: 800px;
 }
