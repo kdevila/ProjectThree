@@ -8,7 +8,7 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
 
 ### wireframe link ###
 <a href="https://www.w3schools.com/">URL you want image to go when clicked-test</li>
-<img src="https://www.w3schools.com/"/>image source URL-test
+<img src="assets/Wireframe-1.png"/>
 <ul>
 <li>https://sfsu.app.box.com/s/gh5ky9r9os5ut7cbwz8knel8zwzu3iw1</li>
 </ul>
@@ -44,6 +44,7 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>Adobe Photoshop</li>
     <li>Adobe Illustrator</li>
 </ul>
+
 # acknowledgment 
 ###### sites referenced for visual inspiration: ######
 #### past student example sites ####
