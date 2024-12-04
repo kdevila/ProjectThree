@@ -11,10 +11,30 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
 <li>https://sfsu.app.box.com/s/gh5ky9r9os5ut7cbwz8knel8zwzu3iw1</li>
 </ul>
 
+
 # technical overview
 ###### fonts used: ######
 <ul>
     <li>https://fonts.google.com/specimen/Phudu</li>
+    <li>https://fonts.google.com/specimen/Slabo+13px?query=slabo</li>
+    <li>https://fonts.google.com/specimen/SUSE</li>
+    <li>https://fonts.google.com/specimen/Nunito?query=nunito</li>
+</ul>
+
+###### primary colors used: ######
+<ul>
+    <li>#F2E3D5</li>
+    <li>#1F438C</li>
+    <li>#F5F5DC (aka beige)</li>
+    <li>#FFDF45</li>
+    <li>#9CF0FF (primarily in logo mark/merch design)</li>
+</ul>
+
+###### sites sourced for images used: ######
+<ul>
+    <li>https://www.unicef.org/education/girls-education</li>
+    <li>https://www.flickr.com/photos/unifil/12169414823</li>
+    <li>https://www.borgenmagazine.com/top-10-facts-about-girls-education-in-pakistan/</li>
 </ul>
 
 # acknowledgment 
