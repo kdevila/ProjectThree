@@ -34,6 +34,7 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
 
 ###### sites sourced for images used: ######
 <ul>
+    <li>https://www.euronews.com/culture/2023/04/18/pakistani-activist-malala-yousafzais-upcoming-memoir-promises-to-be-her-most-personal-yet</li>
     <li>https://www.unicef.org/education/girls-education</li>
     <li>https://www.flickr.com/photos/unifil/12169414823</li>
     <li>https://www.borgenmagazine.com/top-10-facts-about-girls-education-in-pakistan/</li>
