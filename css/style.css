@@ -34,7 +34,6 @@ nav a{
     font-weight:500;
     font-size: 20pt;
     text-transform: uppercase;
-    text-align: right;
 }
 nav a:hover{
     color: #FFDF45;
@@ -46,6 +45,11 @@ a,.stat{
 .logo img {
     max-width: 80px;
     height: auto;
+}
+
+.malalalogo{
+    max-width: 20%;
+    height: 30%;
 }
 
 .hero{
