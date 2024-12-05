@@ -46,14 +46,17 @@ nav a:hover{
 }
 
 h2{
-    font-family: "Slabo 13px", serif;
-    font-weight: 400;
+    font-family: "Phudu", sans-serif;
+    font-weight: 600;
+    font-size: 60px;
     font-style: normal;
-    font-size: 50px;
     text-align: center;
     margin-top: 30px;
     padding: 40px;
     background-color: #9CF0FF;
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
 h3{
   font-family: "SUSE", sans-serif;
@@ -105,9 +108,7 @@ footer {
     margin-top: 30px;
     width: 100%;
 }
+
 a{
     color: #1F438C;
-}
-a:hover{
-    color:#FFDF45;
 }

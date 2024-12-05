@@ -30,6 +30,12 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>#F5F5DC (aka beige)</li>
     <li>#FFDF45</li>
     <li>#9CF0FF (primarily in logo mark/merch design)</li>
+    <li>default colors: white & black</li>
+</ul>
+
+###### homepage animation: ######
+<ul>
+    <li>Referenced from: https://www.cssportal.com/css-animated-text-generator/</li>
 </ul>
 
 ###### sites sourced for images used: ######

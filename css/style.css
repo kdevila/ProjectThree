@@ -39,8 +39,8 @@ nav a{
 nav a:hover{
     color: #FFDF45;
 }
-a:hover{
-    color:#FFDF45;
+a,.stat{
+    color: #1F438C;
 }
 
 .logo img {
@@ -99,9 +99,6 @@ h5{
     font-size: 10pt;
     font-style: normal;  
 }
-a,.stat{
-    color: #1F438C;
-}
 
 /*margins*/
 .marg{
@@ -119,4 +116,18 @@ footer {
     padding: 40px;
     margin-top: 30px;
     width: 100%;
+}
+/*referenced from: https://www.cssportal.com/css-animated-text-generator/ */
+#future:hover{
+    animation-name: cry;
+    animation-duration: 5s;
+    animation-iteration-count:1;
+    }
+@keyframes cry {  
+  100%{
+    letter-spacing: normal;
+  }  
+  70%, 50%{
+    letter-spacing: 10px;
+  }
 }
