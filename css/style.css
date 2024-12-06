@@ -12,22 +12,17 @@ body{
 nav{
 align-items: center;
 padding: 25px;
-padding-right: 10%;
 position: sticky;
 display: flex;
 flex-direction: row;
-justify-content: space-between;
-height: 8%;
+justify-content:space-between;
 background-color:#1F438C;
 }
 
 .pages{
     display: flex;
-    gap: 3rem;
-    justify-content: space-evenly;
-    align-items: center;
+    gap: 3em;
 }
-
 nav a{
     color:beige;
     font-family: "Phudu", sans-serif;
@@ -35,6 +30,7 @@ nav a{
     font-size: 20pt;
     text-transform: uppercase;
 }
+
 nav a:hover{
     color: #FFDF45;
 }
@@ -120,6 +116,10 @@ footer {
     padding: 40px;
     margin-top: 30px;
     width: 100%;
+}
+
+#future{
+    margin: 10px 0 5px 0;
 }
 /*referenced from: https://www.cssportal.com/css-animated-text-generator/ */
 #future:hover{
