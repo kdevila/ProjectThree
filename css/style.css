@@ -49,8 +49,9 @@ a,.stat{
 }
 
 .hero{
-    width: 100%;
-    min-width: 800px;
+width: 100%;
+max-width: min-content;
+max-height: fit-content;
 }
 
 main{
