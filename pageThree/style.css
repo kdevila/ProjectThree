@@ -40,7 +40,7 @@ nav a:hover{
     max-width: 80px;
     height: auto;
 }
-
+/*Merch Header*/
 h2{
     font-family: "Phudu", sans-serif;
     font-weight: 600;
@@ -54,19 +54,13 @@ h2{
     top: 0;
     z-index: 999;
 }
-h3{
-  font-family: "SUSE", sans-serif;
-  font-weight: 400;
-  font-size: 13pt;
-}
 
 /*items*/
 section{
     margin: 30px 0 0 0;
 }
-
 .imgs{
-    max-width: 60%;
+    width: 100%;
 }
 h1{
     font-family: "Phudu", serif;
@@ -75,22 +69,27 @@ h1{
     margin-top: 30px;
     background-color:#1F438C;
     color: white;
-    padding: 30px;
+    padding: 20px;
     border-radius: 1.5em;
-    width: 30%;
-    height: 25%;
-    text-align: center;
+    width: 70%;
+    height: 60%;
+    align-content: center;
     
 }
 h1:hover{
     color:black;
     background-color: #FFDF45;
+    transition-duration: 1s;
+    transition-timing-function: ease;
 }
 .center{
-    display: flex;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 0.5fr 1fr 0.5fr;
+    text-align: center;
+    gap: 1em;
+    justify-items: center;
 }
-
 
 /*footer*/
 footer {
@@ -104,7 +103,6 @@ footer {
     margin-top: 30px;
     width: 100%;
 }
-
 a{
     color: #1F438C;
 }
