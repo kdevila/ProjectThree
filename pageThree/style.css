@@ -60,6 +60,9 @@ section{
     margin: 30px 0 0 0;
 }
 .imgs{
+    width: 50%;
+}
+.imgs2{
     width: 100%;
 }
 h1{
