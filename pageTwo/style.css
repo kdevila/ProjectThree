@@ -106,6 +106,8 @@ h5{
 h5:hover{
     color:black;
     background-color: #FFDF45;
+    transition-duration: 1s;
+    transition-timing-function: ease;
 }
 /*descriptions*/
 p{
@@ -114,7 +116,6 @@ p{
     font-size: 13pt;
     padding: 0 30px 0 30px;
 }
-
 
 /*footer*/
 footer {
