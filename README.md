@@ -46,6 +46,12 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>https://www.borgenmagazine.com/top-10-facts-about-girls-education-in-pakistan/</li>
 </ul>
 
+###### sites used for important info: ######
+<ul>
+    <li>https://malala.org/ - Malala Fund site, used for partner org</li>
+    <li>https://visitistanbulofficial.com/istanbul-tulip-festival-2024-a-celebration-of-spring/ - Istanbul Tulip Festival Info (inspiration for 3rd day of festival)</li>
+</ul>
+
 ###### softwares used: ######
 <ul>
     <li>Adobe Photoshop</li>
@@ -60,7 +66,7 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>https://jwoakley.github.io/projectThreeExamples/kim/index.html</li>
 </ul>
 
-### classmate example sites ###
+#### classmate example sites ####
 <ul>
     <li>https://kacencio.github.io/projectThreeFestival/index.html</li>
     <li>https://cayleighip.github.io/projectThreeFestival/index.html</li>
