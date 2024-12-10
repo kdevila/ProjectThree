@@ -44,8 +44,9 @@ a,.stat{
 }
 
 .malalalogo{
-    max-width: 20%;
+    max-width: 25%;
     height: 30%;
+    margin-top: 15px;
 }
 
 .hero{
@@ -93,6 +94,7 @@ p{
   font-weight: 200;
   font-size: 14pt;
   font-style: normal;
+  line-height:30px;
 }
 
 h5{
