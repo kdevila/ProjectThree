@@ -33,9 +33,10 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>default colors: white & black</li>
 </ul>
 
-###### homepage animation: ######
+###### references: ######
 <ul>
-    <li>Referenced from: https://www.cssportal.com/css-animated-text-generator/</li>
+    <li>Reference for homepage animation: https://www.cssportal.com/css-animated-text-generator/</li>
+    <li>Reference for anchor/jump links: https://blog.hubspot.com/marketing/jump-link-same-page</li>
 </ul>
 
 ###### sites sourced for images used: ######
