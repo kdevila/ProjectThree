@@ -45,6 +45,7 @@ The Empow(H)er festival is an event to support girls' secondary education, speci
     <li>https://www.unicef.org/education/girls-education</li>
     <li>https://www.flickr.com/photos/unifil/12169414823</li>
     <li>https://www.borgenmagazine.com/top-10-facts-about-girls-education-in-pakistan/</li>
+    <li>https://borgenproject.org/the-rise-and-fall-of-girls-education-in-ethiopia/</li>
 </ul>
 
 ###### sites used for important info: ######
