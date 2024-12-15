@@ -55,15 +55,72 @@ h2{
     z-index: 999;
 }
 
-.contact-wrap{
-    max-width: 600px;
-    margin: 0 auto 80px;
+.donate{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
-
+.container{
+    padding: 2% 2% 0 2%;
+    width: 50%;
+    justify-items: center;
+}
+.img{
+    width: 100%;
+    max-height: fit-content;
+}
+/*Section header*/
+h1{
+    font-family: "Slabo 13px", serif;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+}
+h3{
+    font-family: "Nunito", serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 20px;
+    background-color:#1F438C;
+    color: white;
+    padding: 20px;
+    border-radius: 1.5em;
+    text-align: center;
+    width: 80%;
+}
+h3:hover{
+    color:black;
+    background-color: #FFDF45;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
 p{
-  font-family: "SUSE", sans-serif;
-  font-weight: 400;
-  font-size: 13pt;
+    font-family: "SUSE", sans-serif;
+    font-weight: 400;
+    font-size: 15pt;
+    line-height:30px;
+    text-align: left;
+}
+/*USD amounts*/
+h4{
+    font-family: "SUSE", sans-serif;
+    font-weight: 500;
+    font-size: 15pt;
+    margin-top: 15px;
+    padding: 30px;
+    border-radius: 3.5em;
+    background-color:#9CF0FF;
+    color: black;
+}
+h4:hover{
+    background-color:#FFDF45;
+    color: black;
+}
+.funds{
+display: flex;
+flex-direction: row;
+gap:20px;
 }
 
 /*footer*/
@@ -75,7 +132,6 @@ footer {
 /**/
     text-align: center;
     padding: 40px;
-    margin-top: 30px;
     width: 100%;
 }
 a{
