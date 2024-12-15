@@ -5,6 +5,13 @@
     text-decoration: none;
 }
 
+/* Styles for screens bigger than 768px */
+@media screen and (min-width: 768px) {
+    body {
+      font-size: 18px;
+    }
+}
+
 body{
     background-color: #F2E3D5;
 }
